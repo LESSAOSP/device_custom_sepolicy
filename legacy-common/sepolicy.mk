@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by select legacy products that
-# inherit from PixelExperience
+# inherit from LESSAOSP
 #
 
 ifeq ($(TARGET_HAS_LEGACY_CAMERA_HAL1), true)
